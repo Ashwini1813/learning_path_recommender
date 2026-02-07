@@ -1,0 +1,21 @@
+course_name,level,skills,category,order
+Python Basics,Beginner,Python,Data Science,1
+Statistics Fundamentals,Beginner,Statistics,Data Science,2
+Data Analysis with Pandas,Beginner,Python;Pandas,Data Science,3
+Data Visualization,Beginner,Matplotlib;Seaborn,Data Science,4
+Machine Learning,Intermediate,Python;ML,Data Science,5
+Feature Engineering,Intermediate,ML,Data Science,6
+Deep Learning,Advanced,Python;Neural Networks,Data Science,7
+NLP Basics,Advanced,Python;NLP,Data Science,8
+
+HTML & CSS,Beginner,HTML;CSS,Web Development,1
+JavaScript Basics,Beginner,JavaScript,Web Development,2
+Frontend Frameworks,Intermediate,React,Web Development,3
+Backend Development,Intermediate,Node.js,Web Development,4
+Full Stack Project,Advanced,Full Stack,Web Development,5
+
+Python Programming,Beginner,Python,AI Engineer,1
+Linear Algebra,Beginner,Math,AI Engineer,2
+Machine Learning,Intermediate,ML,AI Engineer,3
+Deep Learning,Intermediate,Neural Networks,AI Engineer,4
+Computer Vision,Advanced,Python;CV,AI Engineer,5
